@@ -1,6 +1,5 @@
 # KarierAI - Wizualizuj Swoją Przyszłość, Kreuj Swoją Ścieżkę
 
-Opis projektu:
 KarierAI to innowacyjne podejście do planowania kariery i edukacji. Dzięki zaawansowanej sztucznej inteligencji analizujemy unikatowe talenty, zainteresowania i ambicje każdego użytkownika, aby zaproponować najbardziej dopasowaną ścieżkę zawodową. 
 
 Bazując na prawdziwych historiach sukcesu oraz szerokiej bazie edukacyjnej, każda rekomendacja jest spersonalizowana i dostosowana do indywidualnych aspiracji. 
