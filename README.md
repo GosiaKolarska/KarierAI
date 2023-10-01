@@ -1,8 +1,12 @@
-# React + Vite
+# KarierAI - Wizualizuj Swoją Przyszłość, Kreuj Swoją Ścieżkę
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KarierAI to innowacyjne podejście do planowania kariery i edukacji. Dzięki zaawansowanej sztucznej inteligencji analizujemy unikatowe talenty, zainteresowania i ambicje każdego użytkownika, aby zaproponować najbardziej dopasowaną ścieżkę zawodową. 
 
-Currently, two official plugins are available:
+Bazując na prawdziwych historiach sukcesu oraz szerokiej bazie edukacyjnej, każda rekomendacja jest spersonalizowana i dostosowana do indywidualnych aspiracji. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Naszym celem jest nie tylko dopasowanie użytkowników do zawodów czy uczelni, ale również kreowanie strategicznej mapy ich przyszłości. Z KarierAI wybierasz nie tylko ścieżkę – kreujesz własną historię sukcesu.
+
+Technologie:
+- Vite + React
+- Styled Components
+- MUI
