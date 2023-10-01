@@ -1,0 +1,135 @@
+{
+    "szkoly_srednie": [
+        {
+            "nazwa": "I Liceum Ogólnokształcące im. Jana Długosza",
+            "adres": "ul. Długa 1, 30-001 Kraków",
+            "rating": 4.2,
+            "liczba_opinii": 875,
+            "category": "Publiczna",
+            "type": "Liceum",
+            "img": "https://3.bp.blogspot.com/-SV9t-e72OGo/TuJQq6GLh4I/AAAAAAAAByY/vdc4mPehX0U/s1600/292.jpg"
+        },
+        {
+            "nazwa": "II Liceum Ogólnokształcące im. Jana Matejki",
+            "adres": "ul. Matejkowska 2, 30-002 Kraków",
+            "rating": 4.7,
+            "liczba_opinii": 920,
+            "category": "Publiczna",
+            "type": "Liceum",
+            "img": "https://www.powiatwielicki.pl/img/news/58ea1e2ade99c1b3040b.jpeg"
+        },
+        {
+            "nazwa": "Zespół Szkół Zawodowych nr 1 im. Stanisława Staszica",
+            "adres": "ul. Zawodowa 1, 30-106 Kraków",
+            "rating": 4.3,
+            "liczba_opinii": 632,
+            "category": "Publiczna",
+            "type": "Zawodówka",
+            "img": "https://s3.eu-central-1.amazonaws.com/pressland-cms/cache/amp_article_show_cover_4_3/td/16253455-kampus-wielicki-zespol-szkol-zawodowych-i-zespol.jpeg"
+        },
+        {
+            "nazwa": "Zespół Szkół Zawodowych nr 3 im. Ignacego Paderewskiego",
+            "adres": "ul. Zawodowa 3, 30-107 Kraków",
+            "rating": 4.1,
+            "liczba_opinii": 520,
+            "category": "Publiczna",
+            "type": "Zawodówka",
+            "img": "https://s3.eu-central-1.amazonaws.com/pressland-cms/cache/amp_article_show_cover_4_3/wd/13158761-widok-na-budynek-szkoly-i-fragment-sali-gimnastycznej.jpeg"
+        },
+        {
+            "nazwa": "Zespół Szkół Zawodowych nr 5 im. Jana Pawła II",
+            "adres": "ul. Zawodowa 5, 30-108 Kraków",
+            "rating": 4.2,
+            "liczba_opinii": 580,
+            "category": "Publiczna",
+            "type": "Zawodówka",
+            "img": "https://pietruchaprojekt.pl/wp-content/uploads/2019/02/szkola1.1-1860x930.jpg"
+        },        
+        {
+            "nazwa": "XX Liceum Ogólnokształcące im. Juliusza Słowackiego",
+            "adres": "ul. Słowackiego 20, 30-020 Kraków",
+            "rating": 4.7,
+            "liczba_opinii": 786,
+            "category": "Publiczna",
+            "type": "Liceum",
+            "img": "https://polska-org.pl/foto/140/IX_Liceum_Ogolnoksztalcace_im_Juliusza_Slowackiego_ul_Skargi_Piotra_ks_Wroclaw_140735.jpg"
+        },
+        {
+            "nazwa": "XXI Liceum Ogólnokształcące im. Stanisława Wyspiańskiego",
+            "adres": "ul. Wyspiańskiego 21, 30-021 Kraków",
+            "rating": 4.5,
+            "liczba_opinii": 568,
+            "category": "Publiczna",
+            "type": "Liceum",
+            "img": "https://pow.dzierzoniow.pl/www/files/2015/07/konk_ILO.jpg"
+        },
+        {
+            "nazwa": "I Technikum Elektroniczne im. Michała Żyty",
+            "adres": "ul. Elektroniczna 10, 30-104 Kraków",
+            "rating": 4.6,
+            "liczba_opinii": 742,
+            "category": "Publiczna",
+            "type": "Technikum",
+            "img": "https://d-art.ppstatic.pl/kadry/k/r/1/ea/06/5b1c681abf122_o_large.jpg"
+        },
+        {
+            "nazwa": "II Technikum Mechaniczne im. Wiktora Maszynowskiego",
+            "adres": "ul. Mechaniczna 7, 30-105 Kraków",
+            "rating": 4.5,
+            "liczba_opinii": 690,
+            "category": "Publiczna",
+            "type": "Technikum",
+            "img": "https://www.zespolszkolmechanicznych.edu.pl/wp-content/uploads/resized/1727646ee1f71406bd5a8c13e0d35dc2/received_270194895581163.jpg"
+        }
+    ],
+    "szkoly_wyzsze": [
+        {
+            "nazwa": "Uniwersytet Jagielloński",
+            "adres": "ul. Gołębia 24, 31-007 Kraków",
+            "rating": 5.0,
+            "liczba_opinii": 987,
+            "category": "Publiczna",
+            "img": "https://img.wprost.pl/img/uniwersytet-jagiellonski/b2/ef/426dd385debdba2ca6174482e92a.jpeg"
+        },
+        {
+            "nazwa": "Politechnika Krakowska",
+            "adres": "ul. Warszawska 24, 31-155 Kraków",
+            "rating": 4.5,
+            "liczba_opinii": 863,
+            "category": "Publiczna",
+            "img": "https://cdn.architekturaibiznes.pl/nowebp/upload/cms_aktualnosci/11563/images/kadr7/fit/730x380/politechnika-krakowska-bedzie-ksztalcic-w-jezyku-ukrainskim-199406.jpg"
+        },
+        {
+            "nazwa": "Wyższa Szkoła Zarządzania i Bankowości",
+            "adres": "ul. Krakowska 56, 31-066 Kraków",
+            "rating": 4.6,
+            "liczba_opinii": 724,
+            "category": "Prywatna",
+            "img": "https://www.baza-firm.com.pl/firmy/4/4223/galeria/gal_2_4223.jpg?t=1684387189"
+        },
+        {
+            "nazwa": "Krakowska Akademia Sztuk Pięknych",
+            "adres": "ul. Plastyczna 11, 31-111 Kraków",
+            "rating": 4.6,
+            "liczba_opinii": 763,
+            "category": "Prywatna",
+            "img": "https://www.uczelnie.pl/prezentacje/114/img/1_b.jpg"
+        },
+        {
+            "nazwa": "Krakowska Szkoła Wyższa Informatyki",
+            "adres": "ul. Programistów 19, 31-119 Kraków",
+            "rating": 4.2,
+            "liczba_opinii": 412,
+            "category": "Prywatna",
+            "img": "https://d-art.ppstatic.pl/kadry/k/r/3d/7a/4ef451eb02f25_o_large.jpg"
+        },
+        {
+            "nazwa": "Krakowska Akademia Filmowa",
+            "adres": "ul. Reżyserów 20, 31-120 Kraków",
+            "rating": 4.9,
+            "liczba_opinii": 928,
+            "category": "Prywatna",
+            "img": "https://lh5.googleusercontent.com/p/AF1QipMzxWF6FDGU-hDLF_-GmdoxnJSN-NUWVIycJzec=w408-h311-k-no"
+        }
+    ]
+}
